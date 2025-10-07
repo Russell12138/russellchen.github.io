@@ -74,17 +74,15 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 # 💻 Internships
 <div style="display:flex; align-items:center; width:100%;">
 
-  <!-- 左侧 Logo -->
   <div style="flex:1; text-align:center;">
     <img src="images/logo.jpeg" alt="SICT Logo" 
          style="max-width:120px; width:40%; border-radius:6px; box-shadow:2px 2px 6px rgba(0,0,0,0.15);">
   </div>
 
-  <!-- 右侧内容 -->
   <div style="flex:1; padding-left:40px;">
-    <strong>Neurova</strong>, New York<br>
-    <em>Machine Learning Intern</em><br>
-    <span style="color:#555;"><em>2025.06 – 2025.08</em></span>
+    <strong>Shanghai Institute of Computing Technology</strong><br>
+    <em>Research & Development Center Intern</em><br>
+    <span style="color:#555;"><em>2024.07 – 2024.09</em></span>
   </div>
 
 </div>
