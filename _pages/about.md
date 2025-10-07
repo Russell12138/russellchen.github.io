@@ -76,7 +76,7 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 
   <!-- 左侧 Logo -->
   <div style="flex:1; text-align:center;">
-    <img src="/assets/neurova_logo.png" alt="Neurova Logo" 
+    <img src="images/logo.jpeg" alt="SICT Logo" 
          style="max-width:120px; width:40%; border-radius:6px; box-shadow:2px 2px 6px rgba(0,0,0,0.15);">
   </div>
 
