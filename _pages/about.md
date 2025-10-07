@@ -30,28 +30,61 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CONF-SPML 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An analysis of attention mechanisms and its variance in transformer](https://www.ewadirect.com/proceedings/ace/article/view/10938)
+[An analysis of attention mechanisms and its variance in transformer](https://www.ewadirect.com/proceedings/ace/article/view/10938/pdf)
 
 **Yuzhong Chen**, Hongren Pu, Yang Qu<sup>*</sup>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://www.ewadirect.com/proceedings/ace/article/view/10938) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Analyze Transformer variants, focusing on linear complexity and sparse attention to reduce complexity, multi-head self-attention and low rank to improve performance.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Empirical Study of Modal Sequence Impact on Downstream Performance]()
+
+**Yuzhong Chen**
+
+[**Project**](https://github.com/tantianyuan/mllm_fine-tuning_research) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Evaluate how modality insertion order affects performance, identify interpretable patterns and propose preliminary explanations and insights for each downstream task.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FYP Project</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Modular Expert Routing vs. Unified Fine-tuning in LLM]()
+
+**Yuzhong Chen**
+
+[**Project**](https://github.com/Russell12138/Modular-Expert-Routing-vs.-Unified-Fine-tuning-in-LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Compare both fine-tuning approaches, aiming to comprehensively assess the trade-offs between downstream performance, training cost, and inference efficiency.
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* Top 50 Excellence Award (UoL Tuition Fee Discount: £7000 per year) 
+- *2025.06* EPSRC-funded Summer Research Assistantship, University of Liverpool
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.09 - now*, Undergraduate, University of Liverpool, UK
+- *2022.09 - 2024.07*, Undergraduate, Xi'an Jiaotong-Liverpool University, China
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<table style="border:none;">
+  <tr>
+    <!-- 左边的Logo -->
+    <td style="width:120px; vertical-align:middle;">
+      <img src="neurova_logo.png" alt="Neurova Logo" width="100" style="border-radius:6px; box-shadow:2px 2px 6px rgba(0,0,0,0.2);">
+    </td>
+    <!-- 右边的文字 -->
+    <td style="vertical-align:middle; padding-left:20px;">
+      <strong>Neurova</strong>, New York  
+      <br>
+      <em>Machine Learning Intern</em>  
+      <br>
+      <span style="color:gray;"><em>2025.06 – 2025.08</em></span>
+    </td>
+  </tr>
+</table>
