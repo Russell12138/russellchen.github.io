@@ -71,15 +71,13 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 - *2022.09 - 2024.07*, Undergraduate, Xi'an Jiaotong-Liverpool University, China
 
 # 💻 Internships
-<div style="display:flex; align-items:center; width:100%;">
+<div style="display:flex; align-items:center; width:100%; margin:20px 0;">
 
-  <!-- 左侧 Logo，靠左 -->
   <div style="flex:1; text-align:left;">
     <img src="images/logo.jpeg" alt="SICT Logo" 
          style="max-width:120px; width:40%; border-radius:6px; box-shadow:2px 2px 6px rgba(0,0,0,0.15);">
   </div>
 
-  <!-- 右侧文字，靠左 -->
   <div style="flex:1; text-align:left;">
     <strong>Shanghai Institute of Computing Technology</strong><br>
     <em>Research & Development Center Intern</em><br>
