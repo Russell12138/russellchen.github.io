@@ -72,19 +72,19 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 - *2022.09 - 2024.07*, Undergraduate, Xi'an Jiaotong-Liverpool University, China
 
 # 💻 Internships
-<table style="border:none;">
-  <tr>
-    <!-- 左边的Logo -->
-    <td style="width:120px; vertical-align:middle;">
-      <img src="neurova_logo.png" alt="Neurova Logo" width="100" style="border-radius:6px; box-shadow:2px 2px 6px rgba(0,0,0,0.2);">
-    </td>
-    <!-- 右边的文字 -->
-    <td style="vertical-align:middle; padding-left:20px;">
-      <strong>Neurova</strong>, New York  
-      <br>
-      <em>Machine Learning Intern</em>  
-      <br>
-      <span style="color:gray;"><em>2025.06 – 2025.08</em></span>
-    </td>
-  </tr>
-</table>
+<div style="display:flex; align-items:center; width:100%;">
+
+  <!-- 左侧 Logo -->
+  <div style="flex:1; text-align:center;">
+    <img src="/assets/neurova_logo.png" alt="Neurova Logo" 
+         style="max-width:120px; width:40%; border-radius:6px; box-shadow:2px 2px 6px rgba(0,0,0,0.15);">
+  </div>
+
+  <!-- 右侧内容 -->
+  <div style="flex:1; padding-left:40px;">
+    <strong>Neurova</strong>, New York<br>
+    <em>Machine Learning Intern</em><br>
+    <span style="color:#555;"><em>2025.06 – 2025.08</em></span>
+  </div>
+
+</div>
