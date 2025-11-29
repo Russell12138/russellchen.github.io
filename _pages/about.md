@@ -22,7 +22,7 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 First paper been accepted by CONF-SPML 2024
+- *2023.10*: &nbsp;🎉🎉 First paper accepted by CONF-SPML 2024
 
 # 📝 Publications 
 
@@ -38,24 +38,28 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Empirical Study of Modal Sequence Impact on Downstream Performance]()
 
-**Yuzhong Chen**
+**Yuzhong Chen**, Tianyuan Tan, Tulika Saha, Qiyi Tang
+
+to be submitted
 
 [**Project**](https://github.com/tantianyuan/mllm_fine-tuning_research) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Evaluate how modality insertion order affects performance, identify interpretable patterns and propose preliminary explanations and insights for each downstream task.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FYP Project</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Modular Expert Routing vs. Unified Fine-tuning in LLM]()
+[MERS: Modular Expert Routing System in Large Language Models]()
 
-**Yuzhong Chen**
+**Yuzhong Chen**, Boris Konev
+
+manuscript prepared for submission
 
 [**Project**](https://github.com/Russell12138/Modular-Expert-Routing-vs.-Unified-Fine-tuning-in-LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Compare both fine-tuning approaches, aiming to comprehensively assess the trade-offs between downstream performance, training cost, and inference efficiency.
