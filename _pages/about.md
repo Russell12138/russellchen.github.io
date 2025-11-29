@@ -20,6 +20,13 @@ I am Yuzhong Chen, an undergraduate at the Univeristy of Liverpool. My research 
 
 I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean of School of Computer Science and Informatics, University of Liverpool\). I am in collaboration with [Asst. Prof. Qiyi Tang](https://sites.google.com/view/qiyitang/) and [Asst. Prof. Tulika Saha](https://sahatulika15.github.io) \(University of Liverpool\) over a year. Additionally, I have worked under the mentorship of [Assoc. Prof. Zengchang Qin](https://shi.buaa.edu.cn/zcqin/zh_CN/index.htm) \(Beihang University\), and Mr.Yezhou Chen, Tech Lead, Shanghai Institute of Computing Technology.
 
+# 📖 Educations
+- *2024.09 - now*, Undergraduate, University of Liverpool, UK
+- *2022.09 - 2024.07*, Undergraduate, Xi'an Jiaotong-Liverpool University, China
+
+# 🎖 Honors and Awards
+- *2024.10* Top 50 Excellence Award (UoL Tuition Fee Discount: £7000 per year) 
+- *2025.06* EPSRC-funded Summer Research Assistantship, University of Liverpool
 
 # 📝 Publications 
 
@@ -63,13 +70,6 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2024.10* Top 50 Excellence Award (UoL Tuition Fee Discount: £7000 per year) 
-- *2025.06* EPSRC-funded Summer Research Assistantship, University of Liverpool
-
-# 📖 Educations
-- *2024.09 - now*, Undergraduate, University of Liverpool, UK
-- *2022.09 - 2024.07*, Undergraduate, Xi'an Jiaotong-Liverpool University, China
 
 # 💻 Internships
 <div style="display:flex; align-items:center; width:100%; margin:20px 0;">
