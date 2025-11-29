@@ -86,7 +86,7 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
   <div style="flex:1; text-align:left;">
     <strong>University of Liverpool</strong><br>
     <em>EPSRC-Funded Research Assistant</em><br>
-    <span style="color:#555;"><em>2024.10 – 2025.02</em></span>
+    <span style="color:#555;"><em>2025.06 – 2025.08</em></span>
   </div>
 
 </div>
