@@ -45,7 +45,7 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 
 **Yuzhong Chen**, Tianyuan Tan, Tulika Saha, Qiyi Tang
 
-to be submitted
+*to be submitted*
 
 [**Project**](https://github.com/tantianyuan/mllm_fine-tuning_research) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Evaluate how modality insertion order affects performance, identify interpretable patterns and propose preliminary explanations and insights for each downstream task.
@@ -59,7 +59,7 @@ to be submitted
 
 **Yuzhong Chen**, Boris Konev
 
-manuscript prepared for submission
+*manuscript prepared for submission*
 
 [**Project**](https://github.com/Russell12138/Modular-Expert-Routing-vs.-Unified-Fine-tuning-in-LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Compare both fine-tuning approaches, aiming to comprehensively assess the trade-offs between downstream performance, training cost, and inference efficiency.
