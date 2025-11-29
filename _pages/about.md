@@ -79,6 +79,21 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 <div style="display:flex; align-items:center; width:100%; margin:20px 0;">
 
   <div style="flex:1; text-align:left;">
+    <img src="images/uol_logo.png" alt="University of Liverpool Logo" 
+         style="max-width:120px; width:40%; border-radius:6px; box-shadow:2px 2px 6px rgba(0,0,0,0.15);">
+  </div>
+
+  <div style="flex:1; text-align:left;">
+    <strong>University of Liverpool</strong><br>
+    <em>EPSRC-Funded Research Assistant</em><br>
+    <span style="color:#555;"><em>2024.10 – 2025.02</em></span>
+  </div>
+
+</div>
+
+<div style="display:flex; align-items:center; width:100%; margin:20px 0;">
+
+  <div style="flex:1; text-align:left;">
     <img src="images/logo.jpeg" alt="SICT Logo" 
          style="max-width:120px; width:40%; border-radius:6px; box-shadow:2px 2px 6px rgba(0,0,0,0.15);">
   </div>
