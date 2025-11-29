@@ -21,10 +21,6 @@ I am Yuzhong Chen, an undergraduate at the Univeristy of Liverpool. My research 
 I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean of School of Computer Science and Informatics, University of Liverpool\). I am in collaboration with [Asst. Prof. Qiyi Tang](https://sites.google.com/view/qiyitang/) and [Asst. Prof. Tulika Saha](https://sahatulika15.github.io) \(University of Liverpool\) over a year. Additionally, I have worked under the mentorship of [Assoc. Prof. Zengchang Qin](https://shi.buaa.edu.cn/zcqin/zh_CN/index.htm) \(Beihang University\), and Mr.Yezhou Chen, Tech Lead, Shanghai Institute of Computing Technology.
 
 
-# 🔥 News
-- *2023.10*: &nbsp;🎉🎉 First paper accepted by CONF-SPML 2024
-
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CONF-SPML 2024</div><img src='images/Picture1.png' alt="sym" width="100%"></div></div>
