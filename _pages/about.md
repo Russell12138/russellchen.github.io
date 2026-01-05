@@ -35,7 +35,7 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 
 [Modular Expert Routing System in Large Language Models: Efficiency, Specialization, and Cross-Domain Generalization]()
 
-**Yuzhong Chen**, Boris Konev
+**Yuzhong Chen**, Boris Konev<sup>*</sup>
 
 *to be submitted*
 
@@ -51,7 +51,7 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 
 [Sequence Matters: A Controlled Study of Modality Injection Order in Multimodal LLMs]()
 
-**Yuzhong Chen**, Tianyuan Tan, Aaryan Antala, Shrey Salaria, Qiyi Tang, Tulika Saha
+**Yuzhong Chen**, Tianyuan Tan, Aaryan Antala, Shrey Salaria, Qiyi Tang<sup>*</sup>, Tulika Saha<sup>*</sup>
 
 *under review*
 
