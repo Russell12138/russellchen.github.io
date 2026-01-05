@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am Yuzhong Chen, an undergraduate at the Univeristy of Liverpool. My research interests include Machine Learning, Natural Language Processing, Multi-modal Large Language Model, Embodied Artificial Intelligence.
 
-I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean of School of Computer Science and Informatics, University of Liverpool\). I am in collaboration with [Asst. Prof. Qiyi Tang](https://sites.google.com/view/qiyitang/) and [Asst. Prof. Tulika Saha](https://sahatulika15.github.io) \(University of Liverpool\) over a year. Additionally, I have worked under the mentorship of [Assoc. Prof. Zengchang Qin](https://shi.buaa.edu.cn/zcqin/zh_CN/index.htm) \(Beihang University\), and Mr.Yezhou Chen, Tech Lead, Shanghai Institute of Computing Technology.
+I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean of School of Computer Science and Informatics, University of Liverpool\). I am in close collaboration with [Asst. Prof. Qiyi Tang](https://sites.google.com/view/qiyitang/) and [Asst. Prof. Tulika Saha](https://sahatulika15.github.io) \(University of Liverpool\). Additionally, I have worked under the mentorship of [Assoc. Prof. Zengchang Qin](https://shi.buaa.edu.cn/zcqin/zh_CN/index.htm) \(Beihang University\), and Mr.Yezhou Chen, Tech Lead, Shanghai Institute of Computing Technology.
 
 # 📖 Educations
 - *2024.09 - now*, Undergraduate, University of Liverpool, UK
@@ -29,6 +29,38 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 - *2025.06* EPSRC-funded Summer Research Assistantship, University of Liverpool
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2026</div><img src='images/paper3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MERS: Modular Expert Routing System in Large Language Models]()
+
+**Yuzhong Chen**, Boris Konev
+
+*to be submitted*
+
+[**Project**](https://github.com/Russell12138/Modular-Expert-Routing-vs.-Unified-Fine-tuning-in-LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Compare both fine-tuning approaches, aiming to comprehensively assess the trade-offs between downstream performance, training cost, and inference efficiency.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Empirical Study of Modal Sequence Impact on Downstream Performance]()
+
+**Yuzhong Chen**, Tianyuan Tan, Tulika Saha, Qiyi Tang
+
+*under review*
+
+[**Project**](https://anonymous.4open.science/r/MOCA-LM-Modal-Order-Impact-64D4/README.md) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Evaluate how modality insertion order affects performance, identify interpretable patterns and propose preliminary explanations and insights for each downstream task.
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CONF-SPML 2024</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,36 +74,10 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Empirical Study of Modal Sequence Impact on Downstream Performance]()
-
-**Yuzhong Chen**, Tianyuan Tan, Tulika Saha, Qiyi Tang
-
-*to be submitted*
-
-[**Project**](https://github.com/tantianyuan/mllm_fine-tuning_research) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Evaluate how modality insertion order affects performance, identify interpretable patterns and propose preliminary explanations and insights for each downstream task.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2026</div><img src='images/paper3.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MERS: Modular Expert Routing System in Large Language Models]()
-
-**Yuzhong Chen**, Boris Konev
-
-*manuscript prepared for submission*
-
-[**Project**](https://github.com/Russell12138/Modular-Expert-Routing-vs.-Unified-Fine-tuning-in-LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Compare both fine-tuning approaches, aiming to comprehensively assess the trade-offs between downstream performance, training cost, and inference efficiency.
-</div>
-</div>
 
 
 # 💻 Internships
+
 <div style="display:flex; align-items:center; width:100%; margin:20px 0;">
 
   <div style="flex:1; text-align:left;">
@@ -86,6 +92,8 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
   </div>
 
 </div>
+
+
 
 <div style="display:flex; align-items:center; width:100%; margin:20px 0;">
 
