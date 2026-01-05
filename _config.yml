@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuzhong Chen"
-description              : "Research insterests include: ML, NLP, Multi-modal LLM, Embodied AI"
+description              : "Research insterests include: NLP, Multimodal LLM, Embodied AI"
 repository               : "russell12138.github.io/russellchen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuzhong Chen"
-  avatar           : "images/IMG_5062.jpg"
+  avatar           : "images/profile_photo.jpg"
   bio              : "BSc Computer Science, University of Liverpool"
   location         : "Liverpool, UK"
   employer         :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : "yuzhong-chen-1b3088361"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : https://orcid.org/0009-0008-9421-3459
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
