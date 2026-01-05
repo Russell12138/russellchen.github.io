@@ -56,7 +56,7 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 *under review*
 
 [**Project**](https://anonymous.4open.science/r/MOCA-LM-Modal-Order-Impact-64D4/README.md) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Evaluate how modality insertion order affects performance, identify interpretable patterns and propose preliminary explanations and insights for each downstream task.
+- Propose Multimodal Order-aware Controlled Architecture for Multimodal LLMs namely MOCA-MLLM, and conduct a large-scale, controlled study on how modality injection order affects fine-tuning behavior and performance in MLLMs.
 </div>
 </div>
 
@@ -81,14 +81,16 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2026</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Modular Expert Routing System in Large Language Models: Efficiency, Specialization, and Cross-Domain Generalization]()
+[AIHire: An Intelligent Recruitment Platform with AI-Assisted Decision Support]()
 
-**Yuzhong Chen**, Boris Konev<sup>*</sup>
+**Yuzhong Chen**<sup>*</sup>
 
-*to be submitted*
+*System Engineering & AI Integration*
 
-[**Project**](https://github.com/Russell12138/Modular-Expert-Routing-vs.-Unified-Fine-tuning-in-LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Compare both fine-tuning approaches, aiming to comprehensively assess the trade-offs between downstream performance, training cost, and inference efficiency.
+[**Project**](https://github.com/Russell12138/AIHire_platform) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Designed and implemented a large-scale intelligent recruitment platform supporting applicants, recruiters, and administrators.
+- Integrated AI-assisted modules including conversational agents, resume parsing, and candidate–job matching within a modular service-oriented architecture.
+- Emphasized scalability, role-based access control, and real-world deployability beyond isolated algorithmic performance.
 </div>
 </div>
 
