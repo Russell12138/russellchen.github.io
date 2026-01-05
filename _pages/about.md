@@ -88,9 +88,7 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 *System Engineering & AI Integration*
 
 [**Project**](https://github.com/Russell12138/AIHire_platform) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Designed and implemented a large-scale intelligent recruitment platform supporting applicants, recruiters, and administrators.
-- Integrated AI-assisted modules including conversational agents, resume parsing, and candidate–job matching within a modular service-oriented architecture.
-- Emphasized scalability, role-based access control, and real-world deployability beyond isolated algorithmic performance.
+- Designed and implemented a large-scale intelligent recruitment platform supporting applicants, recruiters, and administrators, with AI-assisted modules including conversational agents, resume parsing, and candidate–job matching within a modular service-oriented architecture.
 </div>
 </div>
 
