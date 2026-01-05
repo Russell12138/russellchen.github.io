@@ -76,6 +76,24 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 
 
 
+# 📝 Development
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2026</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Modular Expert Routing System in Large Language Models: Efficiency, Specialization, and Cross-Domain Generalization]()
+
+**Yuzhong Chen**, Boris Konev<sup>*</sup>
+
+*to be submitted*
+
+[**Project**](https://github.com/Russell12138/Modular-Expert-Routing-vs.-Unified-Fine-tuning-in-LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Compare both fine-tuning approaches, aiming to comprehensively assess the trade-offs between downstream performance, training cost, and inference efficiency.
+</div>
+</div>
+
+
+
 # 💻 Internships
 
 <div style="display:flex; align-items:center; width:100%; margin:20px 0;">
