@@ -30,7 +30,7 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2026</div><img src='images/paper3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2026</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Modular Expert Routing System in Large Language Models: Efficiency, Specialization, and Cross-Domain Generalization]()
