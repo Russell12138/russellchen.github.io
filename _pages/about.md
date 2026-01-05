@@ -83,7 +83,7 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 
 [AIHire: An Intelligent Recruitment Platform with AI-Assisted Decision Support]()
 
-**Yuzhong Chen**<sup>*</sup>
+**Yuzhong Chen**
 
 *System Engineering & AI Integration*
 
