@@ -51,7 +51,7 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 
 [Sequence Matters: A Controlled Study of Modality Injection Order in Multimodal LLMs]()
 
-**Yuzhong Chen**, Tianyuan Tan, Tulika Saha, Qiyi Tang
+**Yuzhong Chen**, Tianyuan Tan, Aaryan Antala, Shrey Salaria, Qiyi Tang, Tulika Saha
 
 *under review*
 
