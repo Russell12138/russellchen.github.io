@@ -76,7 +76,7 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 
 
 
-# 📝 Development
+# 🔧 Development
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIHire Platform</div><img src='images/development1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
