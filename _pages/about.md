@@ -20,6 +20,8 @@ I am Yuzhong Chen, an undergraduate at the Univeristy of Liverpool. My research 
 
 I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean of School of Computer Science and Informatics, University of Liverpool\). I am in close collaboration with [Asst. Prof. Qiyi Tang](https://sites.google.com/view/qiyitang/) and [Asst. Prof. Tulika Saha](https://sahatulika15.github.io) \(University of Liverpool\). Additionally, I have worked under the mentorship of [Assoc. Prof. Zengchang Qin](https://shi.buaa.edu.cn/zcqin/zh_CN/index.htm) \(Beihang University\), and Mr.Yezhou Chen, Tech Lead, Shanghai Institute of Computing Technology.
 
+Technical Portfolio available at [View PDF](portfolio.pdf)
+
 # 📖 Educations
 - *2024.09 - now*, Undergraduate, University of Liverpool, UK
 - *2022.09 - 2024.07*, Undergraduate, Xi'an Jiaotong-Liverpool University, China
@@ -49,13 +51,13 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Sequence Matters: A Controlled Study of Modality Injection Order in Multimodal LLMs]()
+[Empirical Study of Modal Injection Order on Downstream Performance]()
 
 **Yuzhong Chen**, Tianyuan Tan, Aaryan Antala, Shrey Salaria, Qiyi Tang<sup>*</sup>, Tulika Saha<sup>*</sup>
 
 *under review*
 
-[**Project**](https://anonymous.4open.science/r/MOCA-LM-Modal-Order-Impact-64D4/README.md) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Propose Multimodal Order-aware Controlled Architecture for Multimodal LLMs namely MOCA-MLLM, and conduct a large-scale, controlled study on how modality injection order affects fine-tuning behavior and performance in MLLMs.
 </div>
 </div>
